@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yasasvi T
-- 👀 I’m interested in Game Development, Problem Solving and Data Flow Design
-- 🌱 I’m currently learning Game Development using Unity, Python, HTML and CSS
-- 💞️ I’m looking to collaborate on projects pertaining to Game development and Data Science
+- 👀 I’m interested in Game Development, Problem Solving and UI/UX design
+- 🌱 I’m currently a game dev and graphic designer
+- 💞️ I’m looking to collaborate on projects pertaining to Game Development and UI designs
 - 📫 How to reach me: Email: tennetyy@gmail.com
 
 <!---
