@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Yasasvi T
+- 👋 Hi, I’m Yash
 - 👀 I’m interested in Game Development, Problem Solving and UI/UX design
 - 🌱 I’m currently a game dev and graphic designer
-- 💞️ I’m looking to collaborate on projects pertaining to Game Development and UI designs
+- 💞️ I’m looking to collaborate on projects pertaining to Game Development, Game Design and Application Design
 - 📫 How to reach me: Email: tennetyy@gmail.com
 
 <!---
